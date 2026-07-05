@@ -21,9 +21,6 @@ Script PowerShell automatisant l'audit de sécurité d'un domaine Active Directo
 ## 📊 Aperçu du rapport
 Voici un exemple de ce que génère le script :
 
-## 📊 Aperçu du rapport
-Voici un exemple de ce que génère le script :
-
 ```text
 --- CONTEXTE DE L'AUDIT ---
 Date : 07/05/2026 09:00:00
