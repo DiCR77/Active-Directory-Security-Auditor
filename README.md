@@ -17,7 +17,6 @@ Script PowerShell automatisant l'audit de sécurité d'un domaine Active Directo
 ## 🛠 Prérequis
 - Droits d'administration sur le domaine.
 - Accès aux journaux d'événements (Security Logs).
-- 
 ## 📊 Aperçu du rapport
 Voici un exemple de ce que génère le script :
 
